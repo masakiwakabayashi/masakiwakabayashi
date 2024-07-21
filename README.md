@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masakiwakabayashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=masakiwakabayashi&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3>⚡ Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,9 +49,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<h2>⚡ Status ⚡</h2>
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=masakiwakabayashi&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
