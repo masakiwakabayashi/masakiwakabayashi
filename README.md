@@ -1,7 +1,5 @@
 <h2>⚡ My Skills ⚡</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masakiwakabayashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>⚡ Languages</h3>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
